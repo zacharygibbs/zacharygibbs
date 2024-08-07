@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zacharygibbs
 - 👀 I’m interested in Data, Math, Engineering
-- 🌱 I’m currently learning Svelte, R, Data Science / Engineering
+- 🌱 I’m currently learning Svelte, Data Science, Rust
 - 💞️ I’m looking to collaborate on ?
 - 📫 How to reach me [coolsciencey.com](https://coolsciencey.com)
 
